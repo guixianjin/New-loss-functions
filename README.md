@@ -3,3 +3,4 @@ This file is used to record new loss functions for effectively learning from bia
 
 + #####  ArXiv-19 IMAE
 + #####  NIPS-18 Generalized cross entropy $\mathcal{L}_q$
++ #####  NIPS-19 $\mathcal{L}_{\text{DMI}}}$
